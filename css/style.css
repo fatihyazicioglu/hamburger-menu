@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(60, 175, 175);
+}
+nav  {
+  display: flex;
+  align-items: center;
+
+  justify-content: center;
+  padding: 15px;
+}
+.nav-ul li a{
+  display: inline-block;
+  color: #fff;
+  font-family: 'Raleway' , sans-serif;
+  background-color: black;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.hamburger{
+  background-color: transparent;
+  border: 0;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+}
